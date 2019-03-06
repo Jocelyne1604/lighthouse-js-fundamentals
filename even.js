@@ -5,5 +5,5 @@ function isEven(num) {
 var tenIsEven = isEven(10);
 var elevenIsEven = isEven(11);
 
-console.log(tenIsEven);
-console.log(elevenIsEven);
+console.log(isEven(10));
+console.log(IsEven(11));
